@@ -22,13 +22,13 @@ LunaOS is a 64-bit OS designed for the x86_64 architecture, written in C and Ass
 ## Directory Structure
 
 LunaOS/
-├── boot/ # GRUB configuration and bootloader files
-├── kernel/ # Kernel source files (C and Assembly)
-├── include/ # Header files
-├── build/ # Output binaries and ISO files
-├── linker.ld # Linker script
-├── Makefile # Build script
-└── README.md # Project documentation
+- boot/ # GRUB configuration and bootloader files
+─ kernel/ # Kernel source files (C and Assembly)
+─ include/ # Header files
+─ build/ # Output binaries and ISO files
+─ linker.ld # Linker script
+─ Makefile # Build script
+─ README.md # Project documentation
 
 ---
 
